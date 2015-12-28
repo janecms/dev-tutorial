@@ -51,6 +51,7 @@
     + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsm7u)
     + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
 
+
 ## JavaScript
 + [MDN] (https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 + [W3Cshool] (http://www.w3school.com.cn/js/index.asp)
@@ -134,7 +135,8 @@
 
 
 ## 前端
-
++ 前端UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
++ UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
 + [The Web platform: Browser technologies](https://platform.html5.org/)
 + [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
 + [20个网页设计免费电子书2014（上）](http://www.jianshu.com/p/c39c1caa25b6)
