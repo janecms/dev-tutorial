@@ -11,7 +11,7 @@
 + [你好，C++](http://zhuanlan.zhihu.com/nihaoCPP)
 
 ## 手册速查
-+[脚本之家之包含jquery,mysql,shell](http://shouce.jb51.net/mysql/index.html)
++[脚本之家速查](http://shouce.jb51.net/mysql/index.html)
 
 
 
