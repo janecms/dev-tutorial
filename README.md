@@ -10,20 +10,9 @@
 
 + [你好，C++](http://zhuanlan.zhihu.com/nihaoCPP)
 
-## CSharp
+## 手册速查
++[脚本之家之包含jquery,mysql,shell](http://shouce.jb51.net/mysql/index.html)
 
-+ [MSDN指南 & 编程手册](http://shouce.jb51.net/net/index.html)
-  + CHM格式
-    + [CSDN下载](http://download.csdn.net/detail/tom0829/3497346#comment)
-    + [51CTO下载](http://down.51cto.com/data/465531)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCa)
-    + [百度云下载](http://pan.baidu.com/s/1o6iM2oE)
-+ [.net 4.0 类库参考手册](http://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
-  + CHM格式
-    + [CSDN下载](http://download.csdn.net/download/zplinuxx/2556476)
-    + [51CTO下载](http://down.51cto.com/data/1040355)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCx)
-    + [百度云下载](http://pan.baidu.com/s/1pJyZzFd)
 
 
 ## Flask
