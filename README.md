@@ -13,8 +13,13 @@
 ## 手册速查
 + [脚本之家速查](http://shouce.jb51.net/mysql/index.html)
 
-
-
+## 工具利器
++ 一款强大的正则表达式工具[RegexBuddy] (http://www.regexbuddy.com/)
++ 源代码阅读神器[Soure Insight] (http://www.sourceinsight.com)
++ CodeSmith，LightSwitch：代码生成
++ Master：超级简单的分区调整工具
++ Radmin: 远程控制工具，用了一段时间的
++ PowerCmd:替代Windows Cmd的利器
 ## Flask
 
 + [Flask 中文文档 0.10.1](http://docs.jinkan.org/docs/flask/)
@@ -213,3 +218,55 @@
     + [离线版教程下载](https://github.com/wizardforcel/w3school)
 + [各种语言的API文档（docset格式）](http://kapeli.com/docset_links)
 + [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)
+
+## 大数据处理/数据分析/分布式工具
+
+  +  Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
+
+  +  Ceph:Linux分布式文件系统（特点：无中心）
+
+  +  Storm：实时流数据处理，可以看下IBM的一篇介绍 （还有个Yahoo的S4，也是做流数据处理的）
+
+  +  Spark：大规模流式数据处理（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错
+
+  + Spark Streaming：基于Spark的实时计算框架
+
+  +  Tachyon：分布式内存文件系统
+
+  +  Mesos：计算框架一个集群管理器，提供了有效的、跨分布式应用或框架的资源隔离和共享Impala：新一代开源大数据分析引擎，提供Sql语义，比- Hive强在速度上
+
+  +  SNAPPY：快速的数据压缩系统，适用于Hadoop生态系统中
+
+  +  Kafka:高吞吐量的分布式消息队列系统
+
+  +  ActiveMQ:是Apache出品，最流行的，能力强劲的开源消息总线
+
+  +  MQTT:Message Queuing Telemetry Transport，消息队列遥测传输）是IBM开发的一个即时通讯协议，有可能成为物联网的重要组成部分
+
+  +  RabbitMQ：记得OpenStack就是用的这个东西吧
+
+  +  ZeroMQ：宣称是将分布式计算变得更简单，是个分布式消息队列，可以看下云风的一篇文章的介绍开源的日志收集系统：scribe、chukwa、kafka、flume。这有一篇对比文章
+
+  +  Zookeeper：可靠的分布式协调的开源项目
+
+  + Databus：LinkedIn 实时低延迟数据抓取系统
+
+  + 数据源获取：Flume、Google Refine、Needlebase、ScraperWiki、BloomReach
+
+  + 序列化技术：JSON、BSON、Thrift、Avro、Google Protocol Buffers
+
+  + NoSql：Apache Hadoop、Apache Casandra、MongoDB、Apache CouchDB、Redis、BigTable、HBase、Hypertable、Voldemort、Neo4j
+
+  + MapReduce相关：Hive、Pig、Cascading、Cascalog、mrjob、Caffeine、S4、MapR、Acunu、Flume、Kafka、Azkaban、Oozie、Greenplum
+
++ 数据处理：R、Yahoo! Pipes、Mechanical Turk、Solr/ Lucene、ElasticSearch、Datameer、Bigsheets、TinkerpopNLP自然语言处理：Natural Language Toolkit、Apache OpenNLP、Boilerpipe、OpenCalais
+
++ 机器学习：WEKA、Mahout、scikits.learn、SkyTree
+
++ 可视化技术：GraphViz、Processing、Protovis、Google Fusion Tables、Tableau、Highcharts、EChats（百度的还不错）、Raphaël.js
++  Kettle：开源的ETL工具
++  Pentaho：以工作流为核心的开源BI系统
++    Mondrian：开源的Rolap服务器
++    Oozie：开源hadoop的工作流调度引擎
++ 开源的数据分析可视化工具：Weka、Orange、KNIME
++Cobar：阿里巴巴的MySql分布式中间件
