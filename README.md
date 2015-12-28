@@ -137,6 +137,16 @@
 ## 前端
 + 前端UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
 + UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
++ 图标资源：IcoMoon（我的最爱），Themify Icons，FreePik，Glyphiconsart
++ Dialog:非常漂亮的对话框
++ AdminLTE：github上的一个开源项目，基于Boostrap3的后台管理页面框架
++ Respond.js：让不懂爱的IE6-8支持响应式设计
++ require.js: js模块加载库
++ normalize.css: 采用了现代化标准让各浏览器渲染出的html保持一致的库
++ CreateJS：Html5游戏引擎Less,Compass:简化CSS开发
++ pace.js：页面加载进度条
++ Animate.css:实现了各种动画效果的css库
++ Emmet:前端工程师必备，ZenCode的前身
 + [The Web platform: Browser technologies](https://platform.html5.org/)
 + [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
 + [20个网页设计免费电子书2014（上）](http://www.jianshu.com/p/c39c1caa25b6)
