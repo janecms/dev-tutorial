@@ -47,8 +47,8 @@
     + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
 
 ## JavaScript
-+[MDN] (https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-+[W3Cshool] (http://www.w3school.com.cn/js/index.asp)
++ [MDN] (https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
++ [W3Cshool] (http://www.w3school.com.cn/js/index.asp)
 
 ## jQuery
 
