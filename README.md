@@ -1,37 +1,5 @@
 # 开发者教程整理
 
-## Android
-
-+ [Android 官方培训教程](http://hukai.me/android-training-course-in-chinese/index.html)
-  + [PDF格式](http://hukai.me/eBooks/AndroidTrainingCHS.pdf)
-  + [EPUB格式](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
-  + [MOBI格式](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
-  + [代码仓库](https://github.com/kesenhoo/android-training-course-in-chinese)
-+ [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
-  + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/)
-  + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/)
-+ [深入理解 Android 卷II](http://wiki.jikexueyuan.com/project/deep-android-v2/)
-  + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
-  + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
-
-## AngularJS
-
-+ [AngularJS入门教程](http://www.kancloud.cn/thinkphp/angularjs-guide)
-
-## Apache
-
-+ [Apache官方文档2.2](http://httpd.apache.org/docs/2.2/zh-cn/)
-  + [CHM格式](http://www.veryhuo.com/down/html/40810.html)
-
-## ASP
-
-+ [ASP官方文档](http://www.jb51.net/books/238.html)
-
-## ASP.net
-
-+ [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
-  + [PDF格式](http://files.cnblogs.com/powertoolsteam/ASP.NET_MVC5_%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
-
 ## Bootstrap
 
 + [Bootstrap3 官方文档](http://v3.bootcss.com/)
@@ -57,15 +25,6 @@
     + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCx)
     + [百度云下载](http://pan.baidu.com/s/1pJyZzFd)
 
-## Django
-
-+ [django book 2.0](http://djangobook.py3k.cn/2.0/)
-  + [下载地址](http://www.kancloud.cn/thinkphp/django-book)
-+ [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18)
-  + [代码仓库](https://github.com/wizardforcel/django-chinese-docs-18)
 
 ## Flask
 
@@ -107,23 +66,6 @@
 + [Kali Linux 官方文档](http://cn.docs.kali.org/)
 + [Kali Linux 工具介绍](http://tools.kali.org/tools-listing)
 
-## Laravel
-
-+ [Laravel 4.2 中文文档](https://star001007.gitbooks.io/laravel-notest/content/)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/star001007/laravel-notest)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/star001007/laravel-notest)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/star001007/laravel-notest)
-+ [Laravel 5 中文文档](https://lbp0200.gitbooks.io/laravel-5-doc/content/)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/lbp0200/laravel-5-doc)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/lbp0200/laravel-5-doc)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/lbp0200/laravel-5-doc)
-
-## Linux
-
-+ [Linux C API参考](https://www.gitbook.com/book/wizardforcel/linux-c-api-ref/details)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/linux-c-api-ref)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/linux-c-api-ref)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/linux-c-api-ref)
 
 ## MongoDB
 
@@ -192,17 +134,6 @@
     + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC4)
     + [百度云下载](http://pan.baidu.com/s/1ntrBYvZ)
 
-## Swift
-
-+ [Swift编程语言 2.0](http://wiki.jikexueyuan.com/project/swift/)
-  + [PDF格式](http://wiki.jikexueyuan.com/download/swift/pdf/)
-  + [EPUB格式](http://wiki.jikexueyuan.com/download/swift/epub/)
-+ [using swift with cocoa and object-c 中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
-  + [PDF格式](http://vdisk.weibo.com/s/EhsPPzRRQHNd)
-
-## VBScript
-
-+ [Vbscript官方文档](http://www.jb51.net/books/239.html)
 
 ## 前端
 
@@ -242,13 +173,6 @@
 
 + [Selenium Webdriver 简易教程](http://www.flygon.net/selenium-webdriver)
 
-## OS
-
-+ [jos学习笔记](http://blog.csdn.net/roger__wong/article/details/8373719)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/jos-lab)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/jos-lab)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/jos-lab)
-+ [yfs lab 总结](http://www.flygon.net/yfs-lab)
 
 ## 图书
 
