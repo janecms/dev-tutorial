@@ -31,13 +31,8 @@
 + Master：超级简单的分区调整工具
 + Radmin: 远程控制工具，用了一段时间的
 + PowerCmd:替代Windows Cmd的利器
-## Flask
-
-+ [Flask 中文文档 0.10.1](http://docs.jinkan.org/docs/flask/)
-  + [EPUB格式](https://media.readthedocs.org/epub/flask-chs/latest/flask-chs.epub)
 
 ## Git
-
 + [git community book 中文版](http://gitbook.liuhui998.com/index.html)
   + [PDF格式](http://gitbook.liuhui998.com/book.pdf)
 + [pro git 中文第二版](http://git-scm.com/book/zh/v2)
