@@ -13,6 +13,14 @@
 ## 开源案例代码
 + [spring](https://anonsvn.springframework.org/svn/spring-samples/)
 
+## 技术分享网站
++ [tutorialspoint](http://www.tutorialspoint.com)
++ [mkyong](http://www.mkyong.com)
++ [viralpatel](http://viralpatel.net)
+
+## Oracle
++[oracle-base](https://oracle-base.com/)
+
 ## 手册速查
 + [脚本之家速查](http://shouce.jb51.net/mysql/index.html)
 
