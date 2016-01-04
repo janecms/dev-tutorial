@@ -19,7 +19,7 @@
 + [viralpatel](http://viralpatel.net)
 + [dzone] (https://dzone.com/)
 + [javacodegeeks](http://www.javacodegeeks.com/)
-+[java2s](http://java2s.com/) 
++ [java2s](http://java2s.com/) 
 
 ## Oracle
 +[oracle-base](https://oracle-base.com/)
