@@ -13,7 +13,7 @@
 ## 开源案例代码
 + [spring](https://anonsvn.springframework.org/svn/spring-samples/)
 
-## 技术分享网站
+## 国外技术分享网站(代码片段丰富）
 + [tutorialspoint](http://www.tutorialspoint.com)
 + [mkyong](http://www.mkyong.com)
 + [viralpatel](http://viralpatel.net)
