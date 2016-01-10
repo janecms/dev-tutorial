@@ -126,14 +126,25 @@
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw)
   + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lpthw)
 
-## QT
+## Maven搜索服务
 
-+ [QT3 官方文档](http://www.kuqin.com/qtdocument/)
-  + CHM格式
-    + [CSDN下载](http://download.csdn.net/download/g123412312100/4062199)
-    + [51CTO下载](http://down.51cto.com/data/149760)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCr)
-    + [百度云下载](http://pan.baidu.com/s/1kTtHSIb)
++ [Sonatype Nexus](http://repository.sonatype.org/)
++ [Jarvana](http://www.jarvana.com/)
++ [MVNbrowser](http://www.mvnbrowser.com)
++ [MVNrepository](http://mvnrepository.com/)
+
+## Maven仓库服务
+
++ [openkoala](http://nexus.openkoala.org/nexus/content/groups/Koala-release/)
++ [antelink](http://maven.antelink.com/content/repositories/central//)
++ [ibiblio](http://mirrors.ibiblio.org/maven2/)
++ [sonatype](http://repository.sonatype.org/content/groups/public/)
++ [tmatesoft](http://maven.tmatesoft.com/content/groups/public/)
++ [jboss] (http://repository.jboss.org/nexus/content/groups/public)
++ [mavensync](http://mavensync.zkoss.org/maven2/)
++ [glassfish](http://maven.glassfish.org/content/groups/glassfish/)
++ [sourcesense](https://nexus.sourcesense.com/nexus/content/repositories/public/ )
+
 
 ## Redis
 
