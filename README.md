@@ -22,9 +22,18 @@
 + [java2s](http://java2s.com/)
 + [springbyexample](http://www.springbyexample.org/)
 + [journaldev](http://www.journaldev.com) 
++ [petrikainulainen](http://www.petrikainulainen.net)
++ [concretepage](http://www.concretepage.com/)
++ [codejava](http://www.codejava.net/)
++ [programcreek](http://www.programcreek.com/)
++ [http://www.mastertheboss.com](http://www.mastertheboss.com)
++ [roseindia](http://www.roseindia.net/)
++ [solrtutorial](http://www.solrtutorial.com/index.html)
 
 ## 国内技术分享网站
 + [阿里云栖博客](http://yq.aliyun.com/articles)
++ [Lemon OA](http://www.mossle.com/index.do)
+
 
 ##技术聚合网址
 + [开发者头条](http://toutiao.io/)
