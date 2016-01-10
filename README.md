@@ -153,6 +153,7 @@
 + [mavensync](http://mavensync.zkoss.org/maven2/)
 + [glassfish](http://maven.glassfish.org/content/groups/glassfish/)
 + [sourcesense](https://nexus.sourcesense.com/nexus/content/repositories/public/ )
++ [oschina](http://maven.oschina.net/content/groups/public/)
 
 
 ## Redis
