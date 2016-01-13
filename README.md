@@ -154,7 +154,9 @@
 + [glassfish](http://maven.glassfish.org/content/groups/glassfish/)
 + [sourcesense](https://nexus.sourcesense.com/nexus/content/repositories/public/ )
 + [oschina](http://maven.oschina.net/content/groups/public/)
-
++ [repository.jboss.com](http://repository.jboss.com/maven2/)
++ [repo1.maven.org](http://repo1.maven.org/maven2/)
++ [repository.sonatype.org](http://repository.sonatype.org/content/groups/public/)
 
 ## Redis
 
