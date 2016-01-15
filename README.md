@@ -29,6 +29,7 @@
 + [http://www.mastertheboss.com](http://www.mastertheboss.com)
 + [roseindia](http://www.roseindia.net/)
 + [solrtutorial](http://www.solrtutorial.com/index.html)
++ [codeproject](http://www.codeproject.com/)
 
 ## 国内技术分享网站
 + [阿里云栖博客](http://yq.aliyun.com/articles)
