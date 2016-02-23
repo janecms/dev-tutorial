@@ -18,6 +18,7 @@
 + [mkyong](http://www.mkyong.com)
 + [viralpatel](http://viralpatel.net)
 + [dzone] (https://dzone.com/)
++ [javarevisited](http://javarevisited.blogspot.jp)
 + [javacodegeeks](http://www.javacodegeeks.com/)
 + [java2s](http://java2s.com/)
 + [springbyexample](http://www.springbyexample.org/)
